@@ -2,4 +2,4 @@
 
 - 💻 Core Stack: **Golang, JS/React**. Mainly focused on Backend.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavelDonchenko&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavelDonchenko&count_private=true)
